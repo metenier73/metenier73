@@ -87,9 +87,12 @@ she / her
 
 * 🌐 https://metenier73.github.io/web/
 * 🐍 https://github.com/metenier73/pythonScript
-* 📱 https://github.com/metenier73/snapface
+* 📱 https://metenier73.github.io/snapface/snapface/facesnaps
 * 🎿 https://metenier73.github.io/PortfolioSki/
+* ⛷️🏂https://metenier73.github.io/ski-snowboard-tignes-valdisere/
 * 💻 https://metenier73.github.io/PortfolioInfo/
+* 🌞 https://metenier73.github.io/meteo-app/
+
 
 ---
 
