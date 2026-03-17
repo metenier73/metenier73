@@ -6,7 +6,7 @@
 
 ## Hi there 👋
 
-<h3 align="center">💻 Administratrice Systèmes & Réseaux | Future Cloud & Data Engineer</h3>
+<h3 align="center">💻 Administratrice Systèmes & Réseaux |Ancienne monitrice de ski reconvertie tech </h3>
 
 ---
 
