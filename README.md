@@ -31,34 +31,34 @@
 
 ## 🌱 I’m currently learning
 
-* AWS (EC2, S3, IAM, CloudWatch)
-* Docker & conteneurisation
-* Supervision réseau (Centreon, Nagios)
-* Data & automatisation
+* AWS (EC2, S3, IAM, CloudWatch)</br>
+* Docker & conteneurisation</br>
+* Supervision réseau (Centreon, Nagios)</br>
+* Data & automatisation</br>
 
 ---
 
 ## 👯 I’m looking to collaborate on
 
-* Projets **DevOps / Cloud / Data**
-* Automatisation & scripting
-* Projets open source IT
+* Projets **DevOps / Cloud / Data**</br>
+* Automatisation & scripting</br>
+* Projets open source IT</br>
 
 ---
 
 ## 💬 Ask me about
 
-* Support IT (N1 / N2)
-* Systèmes & réseaux
-* Reconversion vers la tech
-* Organisation & méthodes de travail
+* Support IT (N1 / N2)</br>
+* Systèmes & réseaux</br>
+* Reconversion vers la tech</br>
+* Organisation & méthodes de travail</br>
 
 ---
 
 ## 📫 How to reach me
 
-💼 LinkedIn 👉 https://www.linkedin.com/in/metenier-informatique
-🌐 Portfolio 👉 https://metenier73.github.io/PortfolioInfo/
+💼 LinkedIn 👉 https://www.linkedin.com/in/metenier-informatique</br>
+🌐 Portfolio 👉 https://metenier73.github.io/PortfolioInfo/</br>
 
 ---
 
