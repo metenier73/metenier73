@@ -6,7 +6,7 @@
 
 ## Hi there 👋
 
-<h3 align="center">💻 Administratrice Systèmes & Réseaux, Technicienne informatique, Support IT N1/N2 |Développeuse web </h3>
+<h3 align="center">💻 Administratrice Systèmes & Réseaux | Développeuse web </h3>
 
 ---
 
