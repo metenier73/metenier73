@@ -70,8 +70,8 @@ she / her
 
 ## ⚡ Fun fact
 
-🎿 Ancienne monitrice de ski pendant +20 ans
-➡️ Aujourd’hui dans l’IT avec une approche humaine + technique
+🎿 Ancienne monitrice de ski pendant +20 ans</br>
+➡️ Aujourd’hui dans l’IT avec une approche humaine + technique</br>
 
 ---
 
@@ -104,9 +104,9 @@ she / her
 
 ## 🎯 Vision
 
-💡 Combiner **infrastructure, automatisation et cloud**
-🚀 Construire des systèmes fiables, sécurisés et évolutifs
-📊 Évoluer vers des environnements **DevOps / Cloud / Data**
+💡 Combiner **infrastructure, automatisation et cloud**</br>
+🚀 Construire des systèmes fiables, sécurisés et évolutifs</br>
+📊 Évoluer vers des environnements **DevOps / Cloud / Data**</br>
 
 ---
 
