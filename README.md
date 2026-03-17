@@ -12,10 +12,10 @@
 
 ## 🚀 About me
 
-🔹 Administratrice Systèmes & Réseaux junior en reconversion
-🔹 Expérience solide en **support IT multi-environnements (N1/N2)**
-🔹 Double compétence : **infrastructure IT + développement web**
-🔹 Forte capacité d’adaptation issue d’un parcours atypique
+🔹 Administratrice Systèmes & Réseaux junior en reconversion </br>
+🔹 Expérience solide en **support IT multi-environnements (N1/N2)**</br>
+🔹 Double compétence : **infrastructure IT + développement web**</br>
+🔹 Forte capacité d’adaptation issue d’un parcours atypique</br>
 
 🎯 **Objectif :** évoluer vers un rôle en **Cloud / DevOps / Data**
 
@@ -23,9 +23,9 @@
 
 ## 🔭 I’m currently working on
 
-* Projets personnels en **Cloud AWS** ☁️
-* Automatisation avec **Python / Bash / PowerShell**
-* Développement de mes projets GitHub
+* Projets personnels en **Cloud AWS** ☁️</br>
+* Automatisation avec **Python / Bash / PowerShell**</br>
+* Développement de mes projets GitHub</br>
 
 ---
 
